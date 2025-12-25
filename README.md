@@ -340,4 +340,4 @@ For questions or issues, please contact the project contributors or refer to the
 
 ---
 
-**AutoML Classification System** | Machine Learning Project | December 2024
+**AutoML Classification System** | Machine Learning Project | December 2025
