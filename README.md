@@ -279,29 +279,47 @@ The system evaluates model performance using the following metrics:
 ### Dataset Upload and Overview
 
 - **Figure 1**: Dataset Upload Interface
+  <img width="1920" height="1083" alt="1" src="https://github.com/user-attachments/assets/b19c98b0-c04d-4dca-aaf3-8bd4f7807756" />
 - **Figure 2**: Dataset Overview with Statistics
+<img width="1920" height="1081" alt="2" src="https://github.com/user-attachments/assets/4bf70cdd-5922-4509-9546-d5f2a1b562ca" />
 
 ### Exploratory Data Analysis
 
 - **Figure 3**: Outlier Detection using IQR Method
+<img width="1920" height="1081" alt="3" src="https://github.com/user-attachments/assets/658d84d2-eb5a-46a7-9ced-f8605e4ab7cc" />
+
 - **Figure 4**: Distribution Statistics and EDA Summary
+<img width="1920" height="1083" alt="4" src="https://github.com/user-attachments/assets/75449552-4a48-4162-aa93-dcdf52e50d9a" />
 
 ### Issue Detection and Preprocessing
 
 - **Figure 5**: Issue Detection Dashboard
+<img width="1920" height="1082" alt="5" src="https://github.com/user-attachments/assets/31d0487f-d6d7-4fa9-af1a-984acee2dbcb" />
+
 - **Figure 6**: Preprocessing Configuration
+<img width="1920" height="1082" alt="6" src="https://github.com/user-attachments/assets/46376500-6aca-4dae-b182-34e91cbd643a" />
+
 - **Figure 7**: Preprocessing Results Log
+<img width="1919" height="1083" alt="7" src="https://github.com/user-attachments/assets/b73dd040-da69-4b5b-9a6e-b2aaa138bcd2" />
+
 - **Figure 8**: Final Dataset Summary
+<img width="1920" height="1082" alt="8" src="https://github.com/user-attachments/assets/e8f8124d-65e4-44b4-9290-e66659873144" />
 
 ### Model Training and Comparison
 
 - **Figure 9**: Model Training Configuration
+<img width="1920" height="1082" alt="9" src="https://github.com/user-attachments/assets/f0d7fcad-0881-4b05-ad57-540a69293625" />
+
 - **Figure 10**: Model Comparison Metrics
+<img width="1920" height="1082" alt="10" src="https://github.com/user-attachments/assets/e7efdf7f-94f7-4acb-854a-540a875611b8" />
+
 - **Figure 11**: Model Rankings Dashboard
+<img width="1920" height="1084" alt="11" src="https://github.com/user-attachments/assets/41548ce9-b68a-4877-8f32-3917ad1cd8fd" />
 
 ### Report Generation
 
 - **Figure 12**: Final Report Generation Interface
+<img width="1920" height="1083" alt="12" src="https://github.com/user-attachments/assets/fe0592b3-e980-4922-bb2c-4f8b22afea32" />
 
 All screenshots are available in the `/screenshots` directory.
 
