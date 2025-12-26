@@ -321,7 +321,7 @@ All screenshots are available in the `/screenshots` directory.
 
 ## License
 
-This project is developed for educational purposes as part of the Machine Learning course.
+This project is registered under MIT LICENSE.
 
 ---
 
